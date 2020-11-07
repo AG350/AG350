@@ -12,7 +12,6 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&style=for-the-badge&logoColor=white)
 
 
-Actualmente estoy en la busqueda de mi primer experiencia como profesional IT, en mis repositorios podes ver mis practicas :)
 
 ### Contactame por:
 [LinkedIn](https://github.com/AG350) | 
