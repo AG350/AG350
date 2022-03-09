@@ -16,7 +16,7 @@
 
 
 ### Contactame por:
-[LinkedIn](https://github.com/AG350) | 
+[LinkedIn](https://www.linkedin.com/in/abgaleano/) | 
 [Instagram](https://www.instagram.com/ale.gale/)
 
 </div>
