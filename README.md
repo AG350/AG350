@@ -8,7 +8,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-FFFFFF?logo=typescript&style=for-the-badge&logoColor=whitek)
 ![Node](https://img.shields.io/badge/-NodeJS-39933fb?logo=node.js&style=for-the-badge&logoColor=black)
 ![NestJS](https://img.shields.io/badge/-NestJS-CB3234?logo=nestjs&style=for-the-badge&logoColor=whitek)
-![PHP](https://img.shields.io/badge/-php-777BB4?logo=php&style=for-the-badge&logoColor=white)
+![Express](https://img.shields.io/badge/Express-fb?logo=express&style=for-the-badge&logoColor=black&color=lightgrey)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&style=for-the-badge&logoColor=white)
 ![React](https://img.shields.io/badge/-React-%2357d8fb?logo=react&style=for-the-badge&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&style=for-the-badge&logoColor=white)
