@@ -16,8 +16,7 @@
 
 
 ### Contactame por:
-[LinkedIn](https://www.linkedin.com/in/abgaleano/) | 
-[Instagram](https://www.instagram.com/ale.gale/)
+[LinkedIn](https://www.linkedin.com/in/abgaleano/) 
 
 </div>
 
